@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/dagim-hg/Leetcode_solution/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/dagim-hg/Leetcode_solution/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/dagim-hg/Leetcode_solution/tree/master/0412-fizz-buzz) |
 ## Two Pointers
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/dagim-hg/Leetcode_solution/tree/master/0412-fizz-buzz) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/dagim-hg/Leetcode_solution/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
