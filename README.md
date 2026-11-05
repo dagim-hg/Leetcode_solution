@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/dagim-hg/Leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/dagim-hg/Leetcode_solution/tree/master/0202-happy-number) |
 ## Math
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dagim-hg/Leetcode_solution/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/dagim-hg/Leetcode_solution/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/dagim-hg/Leetcode_solution/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
